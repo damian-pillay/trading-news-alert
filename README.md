@@ -27,7 +27,7 @@ The Stock Alert App monitors stock price changes and sends notifications via SMS
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/stock-alert-app.git
+    git clone https://github.com/yourusername/trading-news-alert.git
     ```
 2. Navigate to the project directory:
     ```bash
